@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+	<Site www="http://www.ua.all.biz/board/index.php?action=form">
+		<title>name</title>
+		<company>organization</company>
+		<email>email</email>
+		<phone>tel</phone>
+		<adress>city</adress>
+		<description>subject</description>
+	</Site>
+	<Site www="http://slando.ua/post-new-ad/">
+		<title>data[title]</title>
+		<phone>data[phone]</phone>
+		<contact>data[person]</contact>
+		<email>data[email]</email>
+		<description>data[description]</description>
+	</Site>
+	<Site www="http://freemarket.kiev.ua/add_mes.html">
+		<title>mes[title]</title>
+		<price>mes[cost]</price>
+		<description>mes[txt]</description>
+	</Site>
+	<Site www="http://board.join.ua/add/">
+		<title>title</title>
+		<contact>userName</contact>
+		<adress>city</adress>
+		<phone>phone</phone>
+		<email>email</email>
+		<description>text</description>
+	</Site>
+	<Site www="http://board.tut.ua/post/announcement/">
+		<title>dan_title</title>
+		<contact>dan_name</contact>
+		<email>dan_email</email>
+		<company>dan_company</company>
+		<phone>dan_phone</phone>
+		<description>dan_txt</description>
+	</Site>
+	<Site www="http://www.freetorg.com.ua/lead/add.html">
+		<title>lead_title</title>
+		<price>lead_price</price>
+		<contact>lead_contact_person</contact>
+		<company>lead_company</company>
+		<adress>lead_city</adress>
+		<adress>lead_address</adress>
+		<phone>lead_phone</phone>
+		<email>lead_email</email>
+		<url>lead_url</url>
+		<description>lead_content</description>
+	</Site>
+	<Site www="http://board.ukraine-ru.net/post_info.php?category_id=336&amp;sel_city_id=55">
+		<title>ads_title</title>
+		<contact>ads_your_name</contact>
+		<phone>ads_phone</phone>
+		<email>ads_email</email>
+		<url>ads_url</url>
+		<adress>ads_adress</adress>
+		<description>ads_description</description>
+	</Site>
+	<Site www="http://www.board.com.ua/msg/add_msg">
+		<price>f_6004</price>
+		<title>f_106</title>
+		<company>f_16</company>
+		<contact>f_17</contact>
+		<email>f_126</email>
+		<phone>f_19</phone>
+		<url>f_21</url>
+		<description>f_112</description>
+	</Site>
+</XML>
